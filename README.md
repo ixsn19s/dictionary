@@ -1,4 +1,5 @@
-##created using react js and tailwind using dictionaryapi
+created using react js and tailwind using dictionaryapi
 
-##you can visit this site click below
-#https://xdictionary-wine.vercel.app/
+you can visit this site
+click below link
+https://xdictionary-wine.vercel.app/
